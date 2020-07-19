@@ -1,5 +1,5 @@
-/* @theme my_theme */
-@import 'styles';
+/* @theme styles */
+@import 'default';
 ​
   h2 {
       color: skyblue;
