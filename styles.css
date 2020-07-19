@@ -1,0 +1,18 @@
+/* @theme my_theme */
+@import 'default';
+​
+  h2 {
+      color: skyblue;
+  }
+​
+  section {
+      color: gray;
+  }
+​
+  section.title {
+      background-color: skyblue;
+  }
+​
+  section.title h1{
+      color: white;
+  }
